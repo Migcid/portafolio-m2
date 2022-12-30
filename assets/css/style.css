@@ -1,0 +1,59 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+/* #barra-principal{
+    display: flex;
+    justify-content: space-around;
+}
+
+header .container{
+    border-color: blue;
+    background-color: blue;
+   
+    
+}
+
+
+
+body{
+    background-color: lightcyan;
+
+}
+
+.foto-banner{
+    width: auto;
+    height: 300px;
+    display: wrap;
+    gap: 10px;
+    flex-wrap:wrap;
+}
+/* .caja-dim{
+    display: flex;
+    justify-content: center;
+    padding-top: 25px;
+}
+ */
+
+ .navbar {
+    width: 100%;
+    height: 80px;
+    background-color: blue;
+    
+    
+ }
+
+ img-cards{
+    width: 100%;
+    height: 100px;
+    align-items: center;
+    
+ }
+
+ footer{
+    width: 100%;
+    height: 100px;
+    background-color: rgb(247, 238, 141);
+    
+ }
